@@ -152,6 +152,10 @@ export default {
 	overflow: hidden;
 	background: #fff;
 }
+
+
+
+
 .slide-fade-enter-active {
   transition: all .3s ease;
 }
